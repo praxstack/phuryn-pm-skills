@@ -2,7 +2,7 @@
 
 > 65 PM skills and 36 chained workflows across 8 plugins — from discovery to strategy, execution, launch, and growth.
 
-![Plugin overview](plugins-overview.webp)
+![Plugin overview](.docs/images/plugins-overview.webp)
 
 ## Start Here
 
@@ -37,7 +37,7 @@ It’s about product judgment.
 
 **Plugins** group related skills and commands into installable packages. Each plugin covers a PM domain — discovery, strategy, execution, and so on. Installing the marketplace gives you all 8 plugins at once.
 
-![How skills work](how-skills-work.webp)
+![How skills work](.docs/images/how-skills-work.webp)
 
 Commands use skills. Some skills serve multiple commands. Some skills (like `prioritization-frameworks` or `opportunity-solution-tree`) are standalone references that Claude draws on whenever relevant — no command needed.
 
@@ -54,7 +54,7 @@ Commands are designed to flow into each other, matching the PM workflow. After a
 
 All 8 plugins install automatically. You get both commands (`/discover`, `/strategy`, etc.) and skills.
 
-![Installing PM Skills in Claude Cowork](pm-skills-install.gif)
+![Installing PM Skills in Claude Cowork](.docs/images/pm-skills-install.gif)
 
 For a full walkthrough, see [Claude Cowork: The Ultimate Guide for PMs](https://www.productcompass.pm/p/claude-cowork-guide).
 
