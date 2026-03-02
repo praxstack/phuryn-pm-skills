@@ -18,18 +18,11 @@ If this project helps you, ⭐ the repo.
 
 ## Why PM Skills Marketplace?
 
-Most AI tools make PMs faster at writing.
+Generic AI gives you text. PM Skills Marketplace gives you structure.
 
-PM Skills Marketplace makes you better at deciding.
+Each skill encodes a proven PM framework — discovery, assumption mapping, prioritization, strategy — and walks you through it step by step. You get the rigor of Teresa Torres, Marty Cagan, and Alberto Savoia built into your daily workflow, not sitting on a bookshelf.
 
-- Discovery before solutioning  
-- Assumption mapping before roadmap commitments  
-- Prioritization tied to impact and risk  
-- North Star clarity before metric theater  
-- Pre-mortems before launch disasters  
-
-This isn’t about generating text.
-It’s about product judgment.
+The result: better product decisions, not just faster documents.
 
 ## How It Works (Skills, Commands, Plugins)
 
